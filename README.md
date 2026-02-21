@@ -1,5 +1,8 @@
 # 📊 QC 規格品質分析系統
 
+🌐 **線上 App（直接點擊開啟）**：
+👉 [https://qc-quality-analysis-jqgngzussrsjgmblu2dedr.streamlit.app/](https://qc-quality-analysis-jqgngzussrsjgmblu2dedr.streamlit.app/)
+
 一個以 **Streamlit** 建立的互動式品質管理儀表板，用來分析產品規格與工廠驗收標準的符合情況。
 
 ---
